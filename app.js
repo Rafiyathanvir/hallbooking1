@@ -109,6 +109,6 @@ app.post("/deletuser",function(req,res){
         })
     })
 })
-app.listen(3000,function(){
+app.listenprocess.env.PORT||3000,function(){
     console.log("server running port 3000")
 })
